@@ -38,7 +38,7 @@ function Project() {
 
 
                 <div className="text-center align-middle my-auto px-20">
-                    <h2 className="font-bold  text-5xl ">Univeristy Parcel Management System</h2>
+                    <h2 className="font-bold  text-5xl ">University Parcel Management System</h2>
 
 
                     <p className="mt-5 font-light">Designed and developed with @Nicholas @CheeKin @YiWee @Narresh</p>
