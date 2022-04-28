@@ -10,13 +10,13 @@ function Project() {
         <div>
       <section id="project_details">
             <div className="grid grid-cols-2 mx-60 my-40">
-                <div className=" mx-auto">
+                <div className="aspect-w-16 aspect-h-9">
                     <iframe width="640" height="360" src="https://www.youtube.com/embed/o8RKMNZ5Q-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div className="w-12 fill-green-500 mx-auto mt-5">
                         <AndroidLogo />
                     </div>
                 </div>
-                <div className="text-center align-middle my-auto px-40">
+                <div className="text-center align-top my-auto px-20">
                     <h2 className="font-bold  text-5xl ">Fitnergy</h2>
 
 
@@ -42,7 +42,7 @@ function Project() {
 
 
                     <p className="mt-5 font-light">Designed and developed with @Nicholas @CheeKin @YiWee @Narresh</p>
-                    <p className="mt-5 font-regular text-justify">Fitnergy is a mobile fitness application dedicated towards young working adults that have an interest of starting a fitness routine. It is developed purely on the native android platform. We believe that fitness should be accessible to everyone regardless of ages and sizes.</p>
+                    <p className="mt-5 font-regular text-justify">UPMS is an parcel management system created to digitize the university's current parcel collection process. It is developed with the Laravel framework, Bootstrap, and MySQL database.</p>
                 </div>
 
 
