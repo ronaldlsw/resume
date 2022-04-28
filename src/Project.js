@@ -9,23 +9,24 @@ function Project() {
     return (
         <div>
       <section id="project_details">
-            <div className="grid grid-cols-2 mx-60 my-40">
+          
+            <div className="grid grid-cols-2 mx-40 my-40">
                 <div className="aspect-w-16 aspect-h-9">
                     <iframe width="640" height="360" src="https://www.youtube.com/embed/o8RKMNZ5Q-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div className="w-12 fill-green-500 mx-auto mt-5">
-                        <AndroidLogo />
+                        {/* <AndroidLogo /> */}
                     </div>
                 </div>
-                <div className="text-center align-top my-auto px-20">
+                <div className="text-center align-top my-auto pl-40">
                     <h2 className="font-bold  text-5xl ">Fitnergy</h2>
 
 
                     <p className="mt-5 font-light">Designed and developed with @nickiyui99 @yukine5627 @YiWee @Narresh12</p>
-                    <p className="mt-5 font-regular text-justify">Fitnergy is a mobile fitness application dedicated towards young working adults that have an interest of starting a fitness routine. It is developed purely on the native android platform. We believe that fitness should be accessible to everyone regardless of ages and sizes.</p>
+                    <p className="mt-5 font-regular text-justify">Fitnergy is a mobile fitness application dedicated towards young working adults that have an interest of starting a fitness routine. It is developed on the native android platform.</p>
                 </div>
             </div>
 
-            <div className="grid grid-cols-2 mx-60 my-40">
+            <div className="grid grid-cols-2 mx-40 my-40">
 
                 <div className="mx-auto">
 
@@ -37,7 +38,7 @@ function Project() {
                 </div>
 
 
-                <div className="text-center align-middle my-auto px-20">
+                <div className="text-center align-middle my-auto pl-40">
                     <h2 className="font-bold  text-5xl ">University Parcel Management System</h2>
 
 

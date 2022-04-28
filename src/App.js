@@ -6,7 +6,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll-v2'
 function App() {
   return (
     <div className="max-w-full max-">
-<title>My Résumé</title>
+
       <div className=" bg-gradient-to-r from-red-500 to-orange-200  text-center px-10 py-5  md:py-16 md:px-8  ">
 
         <div className="grid md:grid-cols-2 grid-cols-1   md:my-8 md:mx-40  bg-gray-300 rounded-2xl">
